@@ -32,7 +32,7 @@ max-width:1200px;
 margin:auto;
 }
 
-/* NAVBAR */
+
 .nav-flex{
 display:flex;
 justify-content:space-between;
@@ -89,7 +89,6 @@ font-weight:600;
 cursor:pointer;
 }
 
-/* HERO */
 .hero{
 text-align:center;
 padding:120px 0;
